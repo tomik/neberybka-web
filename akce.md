@@ -11,6 +11,51 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 
 Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici.
 
+## Pojďme objevovat skryté síly v sobě (8. - 10. 10. 2021)
+
+Zveme vás na víkendový pobyt v Orlických horách.
+
+Víkendem vás provedou pránici Jana a Pavel.
+Jana je 9 let pránik a Pavel 2 roky.
+
+S čím se seznámíte?
+
+- NÁDÍ - ČAKRY A PRÁCE S ENERGIÍ (PRÁNOU)
+
+  - Nádí - nosiče a zprostředkovatele energie
+  - Čakry - energetická centra v těle
+  - Prána - vědomá energie
+
+- Pránájáma - vědomé usměrňování dechu
+
+- ÁSANY - pozice, prospěšné všemu a všem.
+
+  - Ásany přinášejí pocit celkové tělesné pohody, protože uvádějí do rovnováhy tělo, mysl i duši. Tyto cviky může pro jejich jednoduchost provádět každý, bez ohledu na věk a tělesnou kondici.
+
+- Meditace - "rozjímání" cesta kultivace mysli (její zklidnění)
+
+Součástí pobytu je i povídání o tématech, která vás budou zajímat, společné sdílení prožitků a pobyt v přírodě.
+
+Účast na všech aktivitách je dobrovolná.
+
+Předpoklad ke šťastnému bytí má každý člověk sám v sobě. A tomu, kdo vážně a opravdově hledá, je cesta otevřená.
+
+Pojďte s námi objevovat skryté síly v sobě.
+
+Ubytování je na samotě v překrásné chalupě v Nebeské Rybné.
+
+Strava na pobytu je vegetariánská.
+
+Cena za pobyt a stravu je 2000 Kč.
+Příspěvek pro průvodce je dobrovolný.
+
+Kapacita pobytu max. 20 osob.
+
+V případě zájmu nebo dotazů se prosím ozvěte na e-mail neberybka@seznam.cz.
+
+Těšíme se na vás. 😊
+
+<!--
 ## Pobyty pro děti na on-line výuce
 
 Nově otevíráme pobyty pro děti, které jsou na on-line výuce. Strava, ubytování, internet zajištěn a k tomu svobodný pohyb v přírodě, společná tvorba,
@@ -42,7 +87,7 @@ Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety p
 Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
 Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
-
+-->
 <!--
 ## Jógový víkend s Láďou Lebedou (28. 2. - 1. 3. 2020)
 
@@ -102,49 +147,7 @@ Zveme vás na <a href="http://jogaladalebeda.cz/?p=384">víkendovou akci</a>, kt
 
 Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
 
-## Pojďme objevovat skryté síly v sobě (3. - 5. 7. 2020)
 
-Zveme vás na víkendový pobyt v Orlických horách.
-
-Víkendem vás provedou pránici Jana a Pavel.
-Jana je 8 let pránik a Pavel 1 rok.
-
-S čím se seznámíte?
-
-- NÁDÍ - ČAKRY A PRÁCE S ENERGIÍ (PRÁNOU)
-
-  - Nádí - nosiče a zprostředkovatele energie
-  - Čakry - energetická centra v těle
-  - Prána - vědomá energie
-
-- Pránájáma - vědomé usměrňování dechu
-
-- ÁSANY - pozice, prospěšné všemu a všem.
-
-  - Ásany přinášejí pocit celkové tělesné pohody, protože uvádějí do rovnováhy tělo, mysl i duši. Tyto cviky může pro jejich jednoduchost provádět každý, bez ohledu na věk a tělesnou kondici.
-
-- Meditace - "rozjímání" cesta kultivace mysli (její zklidnění)
-
-Součástí pobytu je i povídání o tématech, která vás budou zajímat, společné sdílení prožitků a pobyt v přírodě.
-
-Účast na všech aktivitách je dobrovolná.
-
-Předpoklad ke šťastnému bytí má každý člověk sám v sobě. A tomu, kdo vážně a opravdově hledá, je cesta otevřená.
-
-Pojďte s námi objevovat skryté síly v sobě.
-
-Ubytování je na samotě v překrásné chalupě v Nebeské Rybné.
-
-Strava na pobytu je vegetariánská.
-
-Cena za pobyt a stravu je 2000 Kč.
-Příspěvek pro průvodce je dobrovolný.
-
-Kapacita pobytu max. 20 osob.
-
-V případě zájmu nebo dotazů se prosím ozvěte na e-mail neberybka@seznam.cz.
-
-Těšíme se na vás. 😊
 
 ## Týdenní dětský pobyt (11. - 18. 7. 2020)
 
