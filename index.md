@@ -3,16 +3,18 @@ layout: default
 title: O nás
 ---
 
-
+<!--
 <p class="message">
 
 <strong>
   Vážení přátelé, <br/> <br/>
-nově jsme otevřeli pobyty pro děti na on-line výuce. Více informací je v sekci <a href="/akce">Akce</a>. 
+nově jsme otevřeli pobyty pro děti na on-line výuce. Více informací je v sekci <a href="/akce">Akce</a>.
 </strong>
   <br/>
   <br/>
   </p>
+
+-->
 
 
 
