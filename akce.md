@@ -11,12 +11,12 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 
 Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici.
 
-## Pojďme objevovat skryté síly v sobě (8. - 10. 10. 2021)
+## Pojďme objevovat skryté síly v sobě (18. - 20. 2. 2022)
 
 Zveme vás na víkendový pobyt v Orlických horách.
 
 Víkendem vás provedou pránici Jana a Pavel.
-Jana je 9 let pránik a Pavel 2 roky.
+Jana je 10 let pránik a Pavel 3 roky.
 
 S čím se seznámíte?
 
