@@ -71,23 +71,24 @@ A to v následujících termínech (vše 2021):
 Termíny jsou orientační, délka pobytu je na vás a vašich možnostech.
 Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 500 korun na den.
 Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
-
-## Týdenní dětský pobyt (3. - 10. 7. 2021)
-
-Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
-
-Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
-
-Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
-
-## Týdenní dětský pobyt (31. 7. - 7. 8. 2021)
-
-Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
-
-Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
-
-Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
 -->
+
+## Týdenní dětský pobyt (2. - 9. 7. 2021)
+
+Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
+
+Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
+
+Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
+
+## Týdenní dětský pobyt (30. 7. - 6. 8. 2021)
+
+Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
+
+Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
+
+Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
+
 <!--
 ## Jógový víkend s Láďou Lebedou (28. 2. - 1. 3. 2020)
 
