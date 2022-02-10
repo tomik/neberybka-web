@@ -73,7 +73,7 @@ Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 5
 Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
 -->
 
-## Týdenní dětský pobyt (2. - 9. 7. 2021)
+## Týdenní dětský pobyt (2. - 9. 7. 2022)
 
 Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
 
@@ -81,7 +81,7 @@ Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
 Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
 
-## Týdenní dětský pobyt (30. 7. - 6. 8. 2021)
+## Týdenní dětský pobyt (30. 7. - 6. 8. 2022)
 
 Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
 
