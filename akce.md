@@ -11,6 +11,7 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 
 Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici.
 
+<!--
 ## Pojďme objevovat skryté síly v sobě (18. - 20. 2. 2022)
 
 Zveme vás na víkendový pobyt v Orlických horách.
@@ -54,7 +55,7 @@ Kapacita pobytu max. 20 osob.
 V případě zájmu nebo dotazů se prosím ozvěte na e-mail neberybka@seznam.cz.
 
 Těšíme se na vás. 😊
-
+-->
 <!--
 ## Pobyty pro děti na on-line výuce
 
