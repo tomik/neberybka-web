@@ -74,14 +74,11 @@ Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 5
 Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
 -->
 
-## Týdenní dětský pobyt (2. - 9. 7. 2022)
+## Týdenní dětské pobyty 2023
 
-Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
+V letošním roce se intenzivně věnujeme tvoření nového prostoru pro děti. Z tohoto důvodu jsme po dlouhé úvaze dospěli k rozhodnutí, že budeme naši pozornost a energii směřovat do této tvorby a <strong>letošní letní setkání s dětmi u nás v Neberybce z tohoto důvodu nebudeme pořádat</strong>.
 
-Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
-
-Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
-
+<!--
 ## Týdenní dětský pobyt (30. 7. - 6. 8. 2022)
 
 Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
@@ -89,6 +86,7 @@ Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety p
 Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
 Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
+-->
 
 <!--
 ## Jógový víkend s Láďou Lebedou (28. 2. - 1. 3. 2020)

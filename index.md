@@ -1,35 +1,14 @@
 ---
-layout: default
-title: O nás
+layout: page
+title: Aktuality
 ---
 
-<!--
-<p class="message">
+## Průvodce
 
-<strong>
-  Vážení přátelé, <br/> <br/>
-nově jsme otevřeli pobyty pro děti na on-line výuce. Více informací je v sekci <a href="/akce">Akce</a>.
-</strong>
-  <br/>
-  <br/>
-  </p>
+Tvoříme nový prostor pro pravidelné setkávání s dětmi, který bychom rádi otevřeli v září 2023. V tomto prostoru si děti společně s námi - průvodci užijí společný čas. Zároveň zde mohou žít „život naživo“, rozhodovat o své činnosti, rozvíjet staré i nové dovednosti, učit se spolupráci a tvořit způsobem, který je jim blízký. Pravidelně tři dny v týdnu si s dětmi utvoříme program podle jejich zájmů a možností průvodců. Proto do světa vypouštíme zprávu, že hledáme průvodce – tvora s otevřeným srdcem (nejen) k dětem, tvořivého a spolupracujícího. Rádi bychom dětem nabídli široké možnosti aktivit
+uměleckých, radostných i zcela praktických. V současné době připravujeme prostory keramické dílny, truhlárny, kovárny, zahrady, a mnoho dalšího.
+Volá Tě to k nám? <a href="/kontakt">Kontaktujte nás</a>.
 
--->
+## Týdenní dětské pobyty 2023
 
-
-
-<img src="/public/images/neberybka_web_cover.jpg" alt="Neberybka"/>
-
-
-Žijeme a tvoříme v Nebeské Rybné v Orlických horách, jsou nám blízká následující jako svobodný život, harmonie s přírodou nebo tvořivost.
-
-Lidé si k nám přijíždějí popovídat, posdílet, poinspirovat, pobavit anebo jen tak příjemně <a href="/pobyvani">pobýt</a>.
-
-Pořádají se zde víkendové i týdenní pobyty různého zaměření, typickýmí tématy jsou:
-
-* zvědomování svého těla
-* práce s emocemi a zaběhanými vzorci chování
-* meditace a pobývání v tichu
-* tvoření
-
-Rádi poskytneme prostor i pro setkání podobně naladěných lidí anebo organizací.
+V letošním roce se intenzivně věnujeme tvoření nového prostoru pro děti. Z tohoto důvodu jsme po dlouhé úvaze dospěli k rozhodnutí, že budeme naši pozornost a energii směřovat do této tvorby a <strong>letošní letní setkání s dětmi u nás v Neberybce z tohoto důvodu nebudeme pořádat</strong>.

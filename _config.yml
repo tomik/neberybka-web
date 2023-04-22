@@ -39,6 +39,7 @@ defaults:
 urls:
   kontakt:        /kontakt
   akce:           /akce
+  onas:           /onas
   lide:           /lide
   galerie:        /galerie
   pobyvani:       /pobyvani

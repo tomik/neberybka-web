@@ -6,7 +6,10 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">O nás</a>
+
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Aktuality</a>
+
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.urls.onas }}/">O nás</a>
 
       <a class="sidebar-nav-item{% if page.url == site.urls.prostor %} active{% endif %}" href="{{ site.urls.prostor }}">Prostor</a>
 
@@ -25,6 +28,7 @@
       <a class="sidebar-nav-item{% if page.url == site.urls.kontakt %} active{% endif %}" href="{{ site.urls.kontakt }}">Kontakt</a>
 
 </nav>
+
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
      -->
 <!--
