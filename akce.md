@@ -147,22 +147,6 @@ Zveme vás na <a href="http://jogaladalebeda.cz/?p=384">víkendovou akci</a>, kt
 
 Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
 
-
-
-## Týdenní dětský pobyt (11. - 18. 7. 2020)
-
-Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
-
-Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
-
-Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz .
-
-
-
-## Dámský kemp s Luci Bečkovou (20. - 23. 8. 2020)
-
-Kemp pro dámy: budeme se otužovat, meditovat, jíst, relaxovat, bavit se, tančit, zpívat, zpomalíme a naladíme se na svoje jádro a hlavně: nebudeme dělat nic, co nechceme. Součástí budou různé dechové a meditační techniky, terapie chladem, povídání o biohackingu, spánku a samozřejmě dámských tématech. Tento kemp má i bonusový materiál a to sice KAKAO ceremonii za doprovodu křišťálových mís.
-
 ## Dámský kemp s Luci Bečkovou (26. - 29. 11. 2020)
 
 Kemp pro dámy: budeme se otužovat, meditovat, jíst, relaxovat, bavit se, tančit, zpívat, zpomalíme a naladíme se na svoje jádro a hlavně: nebudeme dělat nic, co nechceme. Součástí budou různé dechové a meditační techniky, terapie chladem, povídání o biohackingu, spánku a samozřejmě dámských tématech. Tento kemp má i bonusový materiál a to sice KAKAO ceremonii za doprovodu křišťálových mís.    
@@ -232,28 +216,6 @@ Počet účastníků je omezen. Přihlášky emailem přímo Radkovi na info@int
 
 ## Pránický víkend s Janou Tillovou (24. - 26. 5. 2019
 
-<!--
-## Jógový víkend s Láďou Lebedou (7. - 9. 6. 2019)
-
-Zveme vás na víkendovou akci, kterou u nás pořádá <a href="http://jogaladalebeda.cz">Láďa Lebeda</a>. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí.
-
-Začátek je v pátek 7. 6. 2019 v 18:00. Konec v neděli 9. 6. 2019 v 17:00.
-
-Cenu brzy upřesníme.
-
-Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
--->
-<!--
-
-## Týdenní dětský pobyt (13. - 20. 7. 2019)
-
-Akce je určená pro děti od 4 - 14 let. Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
-
-Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
-
-Příjezd v sobotu dopoledne.
-
-Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 2500 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
 
 ## Qigongový víkend s Petrou Cempírkovou (26. - 28. 7. 2019)
 
@@ -267,26 +229,10 @@ Srdečně vás zveme na víkendové jógově-meditační spočinutí se <a href=
 Celková cena za víkend je 2600 korun. Lehká vegetariánská strava bude zajištěna. Přihlášky, více informací a platbu zálohy přímo u Šárky, emailový kontakt je sarkayoga@gmail.com.
 
 
-## Týdenní dětský pobyt (10. - 17. 8. 2019)
-
-Akce je určená pro děti od 4 - 14 let. Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
-
-Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
-
-Příjezd v sobotu dopoledne.
-
-Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 2500 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
-
 ## Víkend s Nicol Borůvkovou (30. 8. - 1. 9. 2019)
 
 Zveme Vás na meditačně jógový víkend pro ženy, který u nás bude pořádat <a href="https://www.facebook.com/nicoyogatherapy.cz/">Nicol Borůvková</a>. Zájemci o více informací a přihlášky pište na nicoyoga@seznam.cz.
 
-
-## Společné zpívání s Mantrovníky (28.9.2019)
-
-Na svátek Svatého Václava k nám opět přijedou na společné zpívání <a href="http://www.gajatri.net">Mantrovníci</a>. Zpívání zahájíme v sobotu v 15:00.
-
-Bude možnost pobýt až do neděle. Doporučujeme vzít si vlastní spacák a ručník. Pro rezervaci pokojíčku na přespání nám <a href="/kontakt">napište</a>. Příspěvek na případné ubytování a využití prostor je pro tuto akci dobrovolný.
 
 -->
 <!--
@@ -355,24 +301,6 @@ Pojeďte si s námi pro nové zážitky plné radosti a humoru na pohádkové m�
 Cena za program je 2000 korun. Příspěvek na prostor je dobrovolný. Přihlášky a další informace na info@joga.hk anebo na tel. 775388131.
 
 
-
-## Týdenní dětský pobyt (30. 6. 2018 - 7. 7. 2018)
-
-Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od sebe učit. Program není pevně dán. Akce je určená pro děti od 6 - 12 let. Vzhledem ke komornímu charakteru akce budeme přednostně přijímat děti přátel a z blízkého okolí.
-
-Příspěvek je dobrovolný. Zájemci pište na amrita@amrita.cz.
-
-## Jógový víkend s Láďou Lebedou (13. 7. 2018 - 15. 7. 2018)
-
-Zveme vás na víkendovou akci, kterou u nás pořádá <a href="http://jogaladalebeda.cz">Láďa Lebeda</a>. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí. Podobná akce v květnu se účastníkům velice líbila.
-
-Začátek v pátek 13. 7. 2018 v 18:00. Konec bude v neděli 15. 7. 2018 v 17:00.
-
-Cena za program a stravu je 2500 korun za osobu. Příspěvek na ubytování je dobrovolný.
-
-Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
-
-
 ## Harmonizační vikend s jógou s Denisou Krejčířovou (20. 7. 2018 - 22. 7. 2018)
 
 Jóga jako cesta ke zvědomění vlastního těla - Cesta ke svobodné mysli skrze tělo a pohyb.
@@ -404,13 +332,6 @@ V pátek budeme začínat v 18 hodin, ale příjezd je možný kdykoliv během d
 
 Cena za program i využívání prostoru je dobrovolná. Přihlášky na amrita@amrita.cz.
 
-## Týdenní dětský pobyt (4. 8. 2018 - 11. 8. 2018)
-
-Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od sebe učit. Program není pevně dán. Akce je určená pro děti od 6 - 12 let. Vzhledem ke komornímu charakteru akce budeme přednostně přijímat děti přátel a z blízkého okolí.
-
-Příspěvek je dobrovolný. Zájemci pište na amrita@amrita.cz.
-
-
 ## Jógový relaxační víkend s Marcelou Cackovou - Jóga a ájurvéda v Neberybce (17. 8. 2018 - 19. 8. 2018)
 
 Zveme vás na víkendovou akci, kterou u nás pořádá Marcelka Cacková z Lanškrounského studia <a href="http://om-shakti.cz">Om shakti</a>:
@@ -423,8 +344,6 @@ Strava zajištěna od soboty, proto si přivezte něco
 do společného pátečního bufetu. Doporučujeme s sebou pohodlné oblečení, jógamatku a deku na cvičení a relaxaci. Co není doporučeno - špatná nálada, alkohol a cigarety.
 
 Cena 1500 korun za program a stravu. Příspěvek na prostor je dobrovolný. Přihláška a platba předem přímo u Marcelky na tel. 777553698 anebo na macinacackova@seznam.cz.
-
-
 
 ## Pránický víkend s Janou Tillovou (24. 8. 2018 - 26. 8. 2018)
 
@@ -458,7 +377,6 @@ Příjezd v pátek 21. 9. 2018 mezi 15 a 17 hodinou. Odjezd v neděli 23. 9. 20
 Strava zajištěna. Příspěvek na ubytování je dobrovolný.
 
 Přihlášky a dotazy přímo u Petra na e-mailu petr.berka.81@gmail.com.
-
 
 
 ## Svatováclavské zpívání s Mantrovníky (28.9.2018)
