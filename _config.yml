@@ -10,6 +10,7 @@ plugins:          [jekyll-paginate, redcarpet, pygments.rb]
 title:            Neberybka
 tagline:          'V proudu energie života'
 description:      'Prostor sebepoznání a harmonie v Orlických horách.'
+domain:           neberybka.cz
 url:              https://www.neberybka.cz
 baseurl:          /
 
