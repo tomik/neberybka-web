@@ -87,7 +87,7 @@ Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety p
 
 Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
-Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
+Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 4000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
 
 ## Týdenní dětský pobyt (3. 8. - 10. 8. 2024)
 
@@ -95,7 +95,7 @@ Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety p
 
 Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
-Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
+Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 4000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
 
 
 <!--
