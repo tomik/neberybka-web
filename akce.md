@@ -9,7 +9,7 @@ Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v p
 
 Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici.
 
-Informace o cenách je v <a href="/ceník">ceníku</a>.
+Informace o cenách je v <a href="/cenik">ceníku</a>.
 
 <!--
 ## Pojďme objevovat skryté síly v sobě (18. - 20. 2. 2022)
