@@ -39,6 +39,7 @@ defaults:
 urls:
   kontakt:        /kontakt
   akce:           /akce
+  cenik:          /cenik
   onas:           /onas
   lide:           /lide
   galerie:        /galerie
