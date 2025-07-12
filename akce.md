@@ -79,7 +79,6 @@ Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
 
 V letošním roce se intenzivně věnujeme tvoření nového prostoru pro děti. Z tohoto důvodu jsme po dlouhé úvaze dospěli k rozhodnutí, že budeme naši pozornost a energii směřovat do této tvorby a <strong>letošní letní setkání s dětmi u nás v Neberybce z tohoto důvodu nebudeme pořádat</strong>.
 
--->
 
 ## Týdenní dětský pobyt (28. 6. - 5. 7. 2025)
 
@@ -97,6 +96,8 @@ Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
 Příspěvek na pobyt je 4000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
 
+
+-->
 
 <!--
 ## Jógový víkend s Láďou Lebedou (28. 2. - 1. 3. 2020)
