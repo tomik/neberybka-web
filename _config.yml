@@ -1,10 +1,10 @@
 # Dependencies
-highlighter:      rouge
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 # relative_permalinks: true
-plugins:          [jekyll-paginate, redcarpet, pygments.rb]
+plugins:          [jekyll-paginate, pygments.rb]
 
 # Setup
 title:            Neberybka
@@ -17,6 +17,7 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
+safe:             true
 paginate:         5
 
 # Custom vars
